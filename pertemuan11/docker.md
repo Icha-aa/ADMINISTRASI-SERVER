@@ -19,7 +19,7 @@
 
  5. Create Repo di Github
  - Membuat Repo baru dengan nama himafor_nim
- - BUat projek di Local 
+ - BUat projek di Local
  - Push ke Github
 ![alt text](image-4.png)
 
